@@ -114,8 +114,19 @@ object Basic2{
     val s= new Student("hongwei",20,"math")
     val s1= new Student("hongwei",20,"math","male")
     println(s1.toString())
+    val p1 = new Person1("hongwei",12)
+    p1.age
+    p1.name
   }
-  
-  
-  
+}
+
+case class Person1( name :String,age:Int)
+
+object Chapter1{
+  def main(args: Array[String]): Unit = {
+  println("hagen")
+    1.to(10)
+    1 to 10
+
+  }
 }

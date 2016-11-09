@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="430b0db3-4a1c-42fa-a4f0-c3c6834869b7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec05/repl-session.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec08/test.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch01/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch01/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch01/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch01/sec04/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch01/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch01/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch01/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec04/script.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec09/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec10/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec11/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch02/sec12/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch03/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch03/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch03/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch03/sec04/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch03/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch03/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch03/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch03/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch04/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch04/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch04/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch04/sec04/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch04/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch04/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch04/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch04/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec02/Person.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec04/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec07/Person1.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec07/Person2.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec08/Network.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec08/Network2.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch05/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch06/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch06/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch06/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch06/sec04/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch06/sec05/Hello.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch06/sec05/Hello1.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch06/sec05/Hello2.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch06/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec01/Employee.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec01/Manager.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec02/Employee.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec02/Manager.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec03/Person.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec04/Car.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec04/Person.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec05/Person.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec06/Person.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec08/Manager.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec09/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch07/sec10/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec01/Employee.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec02/Employee.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec03/Employee.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec04/Manager.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec09/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec10/Creature.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec11/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch08/sec12/Item.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec01/mary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec02/mary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec02/script.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec03/script.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec03/values.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec04/script.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec09/output.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec09/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec10/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch09/sec11/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec02/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec03/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec04/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec05/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec06/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec07/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec08/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec09/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec10/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec10/app.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec11/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec11/myapp.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec11/myapp2.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec12/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec13/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch10/sec14/Logger.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec02/Fraction.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec04/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec07/Fraction.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec08/Fraction.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec09/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch11/sec10/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec04/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec09/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch12/sec10/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec04/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec09/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec10/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec11/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec12/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec13/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec14/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec15/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec16/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch13/sec17/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec01/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec02/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec03/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec04/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec05/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec06/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec07/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec08/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec09/Currency.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec10/Currency.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec11/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec12/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec13/List.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec13/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec14/Amount.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec14/Euro.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec15/TrafficLightColor.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec16/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch14/sec17/repl-session.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec01/Credentials.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec01/MyTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec02/Misc.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec03/Misc.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec04/Credentials.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec05/Book.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec05/BookClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec05/Employee.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec05/Fred.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/impatient/ch15/sec05/Person.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache-tests" afterPath="$PROJECT_DIR$/.cache-tests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/props/sample.props.template" afterPath="$PROJECT_DIR$/src/main/resources/props/sample.props.template" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/props/test.default.props.template" afterPath="$PROJECT_DIR$/src/main/resources/props/test.default.props.template" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/code/api/day01.scala" afterPath="$PROJECT_DIR$/src/main/scala/code/api/day01.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scripts/migrate/migrate_0000001.sql" afterPath="$PROJECT_DIR$/src/main/scripts/migrate/migrate_0000001.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scripts/migrate/migrate_000002.sql" afterPath="$PROJECT_DIR$/src/main/scripts/migrate/migrate_000002.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/consumer-registration.html" afterPath="$PROJECT_DIR$/src/main/webapp/consumer-registration.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/create-sandbox-account.html" afterPath="$PROJECT_DIR$/src/main/webapp/create-sandbox-account.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/graphs.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/graphs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/bnpp.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/bnpp.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/enbdg.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/enbdg.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/op.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/op.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/socgen.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/socgen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/uk.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/uk.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/ulster.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/ulster.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/unicredit.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/unicredit.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/reset.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/responsive_login.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/responsive_login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/website.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/website.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/js/d3.v3.js" afterPath="$PROJECT_DIR$/src/main/webapp/media/js/d3.v3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/js/graphs.js" afterPath="$PROJECT_DIR$/src/main/webapp/media/js/graphs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/js/toastr.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/media/js/toastr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/js/website.js" afterPath="$PROJECT_DIR$/src/main/webapp/media/js/website.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/metrics.html" afterPath="$PROJECT_DIR$/src/main/webapp/metrics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/oauth/authorize.html" afterPath="$PROJECT_DIR$/src/main/webapp/oauth/authorize.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/oauth/thanks.html" afterPath="$PROJECT_DIR$/src/main/webapp/oauth/thanks.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates-hidden/_login.html" afterPath="$PROJECT_DIR$/src/main/webapp/templates-hidden/_login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates-hidden/_login_form.html" afterPath="$PROJECT_DIR$/src/main/webapp/templates-hidden/_login_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates-hidden/default.html" afterPath="$PROJECT_DIR$/src/main/webapp/templates-hidden/default.html" />
+    </list>
+    <ignored path="lovescala.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lovescala" />
+    <favorites_list name="ToDo">
+      <favorite_root url="file://$PROJECT_DIR$/src/main/scala/code/api/ScalaWorksheet.sc" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ScalaWorksheet.sc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/code/api/ScalaWorksheet.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day01.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/code/api/day01.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnyVal.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/AnyVal.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="754" column="0" selection-start-line="754" selection-start-column="0" selection-end-line="754" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadGroup.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/lang/ThreadGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="968" column="0" selection-start-line="968" selection-start-column="0" selection-end-line="968" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RichInt.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/runtime/RichInt.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Range.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/collection/immutable/Range.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="351" column="61" selection-start-line="351" selection-start-column="61" selection-end-line="351" selection-end-column="61" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowPriorityImplicits.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/LowPriorityImplicits.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#541#596#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="repl-session.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/impatient/ch01/sec01/repl-session.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/impatient/ch01/sec02/repl-session.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/code/api/ScalaWorksheet.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/impatient/ch01/sec01/repl-session.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/code/api/day01.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lovescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lovescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoveScala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lovescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoveScala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lovescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoveScala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lovescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoveScala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lovescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoveScala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day01.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="fa&#9;ACTION&#9;ActivateFavoritesToolWindow" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/scala/impatient" />
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Chapter1">
+    <configuration default="false" name="Chapter1" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="code.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="code.api.Chapter1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lovescala" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lovescala" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Chapter1" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Chapter1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1478672927352" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lovescala" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lovescala" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="lovescala-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/testingscala" value="1478341931000" />
+        <entry key="$PROJECT_DIR$/../../IdeaProjects/OBP-API-develop" value="1477070418000" />
+        <entry key="$PROJECT_DIR$/../../workidea/API-Explorer" value="1478106406000" />
+        <entry key="$PROJECT_DIR$/../../workidea/OBP-API" value="1477998302000" />
+        <entry key="$PROJECT_DIR$/../../workidea/Social-Finance" value="1478106658000" />
+        <entry key="$USER_HOME$/IdeaProjects/Example" value="1477988166000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="430b0db3-4a1c-42fa-a4f0-c3c6834869b7" name="Default" comment="" />
+      <created>1478672892869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478672892869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37284482" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.118159205" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="280" y="577" width="1021" height="214" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.7250859" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69181037" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24975514" sideWeight="0.2749141" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69181037" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37284482" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.118159205" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="280" y="577" width="1021" height="214" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.7250859" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24975514" sideWeight="0.2749141" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/code/api/day01.scala</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/code/api/ScalaWorksheet.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/impatient/ch01/sec03/repl-session.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/impatient/ch01/sec02/repl-session.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/impatient/ch01/sec01/repl-session.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/impatient/ch13/sec17/repl-session.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/impatient/ch01/sec01/repl-session.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/LowPriorityImplicits.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#541#596#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/collection/immutable/Range.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="351" column="61" selection-start-line="351" selection-start-column="61" selection-end-line="351" selection-end-column="61" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/runtime/RichInt.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="968" column="0" selection-start-line="968" selection-start-column="0" selection-end-line="968" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="754" column="0" selection-start-line="754" selection-start-column="0" selection-end-line="754" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.5-sources.jar!/scala/AnyVal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/code/api/ScalaWorksheet.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/code/api/day01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
