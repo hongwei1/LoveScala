@@ -35,6 +35,7 @@ object Chapter1{
     "HongWei".count(_.isUpper)
     3
     val patch: String = "Harry".patch(1,"ung",2)
+    4
   }
   def mynumber={
     print(BigInt.probablePrime(100,scala.util.Random))
