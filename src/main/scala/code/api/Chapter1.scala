@@ -36,7 +36,7 @@ object Chapter1{
     3
     val patch: String = "Harry".patch(1,"ung",2)
     4
-    5
+    5 max(10)
   }
   def mynumber={
     print(BigInt.probablePrime(100,scala.util.Random))
