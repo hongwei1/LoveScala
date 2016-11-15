@@ -10,15 +10,23 @@ trait Logger {
 // Use early definition syntax to define filename
 trait FileLogger extends Logger {
   val filename: String
-  val out = new PrintWriter(filename) 
-  def log(msg: String) { out.println(msg); out.flush() }
+  val out = new PrintWriter(filename)
+
+  def log(msg: String) {
+    out.println(msg);
+    out.flush()
+  }
 }
 
 // This version constructs the writer lazily
 trait FileLogger2 extends Logger {
   val filename: String
-  lazy val out = new PrintWriter(filename) 
-  def log(msg: String) { out.println(msg); out.flush() }
+  lazy val out = new PrintWriter(filename)
+
+  def log(msg: String) {
+    out.println(msg);
+    out.flush()
+  }
 }
 
 class Account {
@@ -38,12 +46,12 @@ object Main extends App {
   val acct = new {
     val filename = "myapp.log"
   } with SavingsAccount with FileLogger
-  acct.withdraw(100) 
+  acct.withdraw(100)
 
   val acct2 = new SavingsAccount with FileLogger2 {
     val filename = "myapp2.log"
-  } 
-  acct2.withdraw(100)   
+  }
+  acct2.withdraw(100)
   println("Look into myapp.log and myapp2.log for the log messages.");
 }
 

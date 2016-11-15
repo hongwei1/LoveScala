@@ -3,7 +3,9 @@ package code.api
 /**
   * 1、Scala基础与实践:Scala基础与实践.pdf 陈超 @CrazyJvm
   */
-import Chapter1.mynumber
+
+import myImpatient.Chapter1
+
 object Basic {
   def hello(name: String = "Scala"): String = {
     "Hello:" + name
@@ -26,7 +28,7 @@ object Basic {
   var add1 = (x: Int, y: Int) => x + y;
 
   def main(args: Array[String]): Unit = {
-    mynumber
+    //    mynumber
     val chapter: Chapter1 = new Chapter1
     chapter.myClass
 
@@ -68,17 +70,20 @@ object Basic {
   }
 }
 
-import  scala.math._
+import scala.math._
+
 class Person {
   var name: String = _
   // _:place holder: getter and setter
-  val age = pow(10,100)//only getter
-  private[this] val gender = "male" // only inside the class ,not outside
+  val age = pow(10, 100)
+  //only getter
+  private[this] val gender = "male"
+
+  // only inside the class ,not outside
   def main(args: Array[String]): Unit = {
     val age = sqrt(2)
-    val age1= min(10,100)
+    val age1 = min(10, 100)
   }
-
 }
 
 //1 主构造器直接跟在类定义里面,
@@ -131,7 +136,8 @@ object Basic2 {
     p1.age
     p1.name
   }
-case class Person1(name: String, age: Int){}
+
+  case class Person1(name: String, age: Int) {}
 
 
 }

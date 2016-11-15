@@ -13,7 +13,7 @@ object Number {
 val Number(n) = "1729"
 
 object Name {
-  def unapply(input: String) = {
+  def unapply(input: String): Option[(String, String)] = {
     val pos = input.indexOf(" ")
     if (pos == -1) None
     else Some((input.substring(0, pos), input.substring(pos + 1)))
@@ -21,7 +21,7 @@ object Name {
 }
 
 object IsCompound {
-  def unapply(input: String) = input.contains(" ")
+  def unapply(input: String): Boolean = input.contains(" ")
 }
 
 val author = "Peter van der Linden"
