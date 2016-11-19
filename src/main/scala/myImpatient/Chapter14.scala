@@ -2,6 +2,8 @@ package myImpatient
 
 import impatient.ch14.sec09._
 
+import scala.collection.immutable.IndexedSeq
+
 /**
   * Created by zhanghongwei on 14/11/16.
   */
@@ -167,43 +169,135 @@ object Chapter14 extends App {
 
   //BK 14.9 Case Classes
 
-//  • Each of the constructor parameters becomes a val unless
+  //  • Each of the constructor parameters becomes a val unless
   // it is explicitly declared as a var (which is not recommended).
-//
-//  • An apply method is provided for the companion object that lets you
+  //
+  //  • An apply method is provided for the companion object that lets you
   // construct objects without new, such as Dollar(29.95) or Currency(29.95, "EUR").
-//
-//  • An unapply method is provided that makes pattern matching work—see Chapter 11 for
+  //
+  //  • An unapply method is provided that makes pattern matching work—see Chapter 11 for
   // the details. (You don’t really need to know these details to use case classes
   // for pattern matching.)
 
-//  • Methods toString, equals, hashCode, and copy are generated unless they are explicitly provided.
+  //  • Methods toString, equals, hashCode, and copy are generated unless they are explicitly provided.
 
   abstract class Amount
 
   class MyMoney(value: Double) extends Amount
-  object MyMoney extends Amount{
+
+  object MyMoney extends Amount {
     def apply(value: Double): MyMoney = new MyMoney(value)
 
     def unapply(arg: MyMoney): Option[Double] = Option(2.4)
   }
+
   case class Dollar(value: Double) extends Amount
 
   case class Currency(value: Double, unit: String) extends Amount
 
   case object Nothing extends Amount
 
-  for (amt <- Array(Dollar(1000.0), Currency(1000.0, "EUR"),MyMoney(1000.0), Nothing)) {
+  for (amt <- Array(Dollar(1000.0), Currency(1000.0, "EUR"), MyMoney(1000.0), Nothing)) {
     val result = amt match {
       case Dollar(v) => "$" + v
       case Currency(_, u) => "Oh noes, I got " + u
-      case MyMoney(v)   =>"My money" +v
+      case MyMoney(v) => "My money" + v
       case Nothing => ""
     }
     // Note that amt is printed nicely, thanks to the generated toString
     println(amt + ": " + result)
   }
 
-
   val a = 5
 }
+
+
+//bk 14.11 Infix Notation in case Clauses
+object InfixNotationInCaseClauses extends App {
+
+}
+
+//bk 14.16 The Option Type
+object Option16 extends App {
+  //http://lift.la/blog/scala-option-lift-box-and-how-to-make-your-co
+
+  for {x <- Some(5); y <- Some(4)} yield x * y
+
+  val yOpt: Option[Int] = None
+
+  for {x <- Some(3); y <- yOpt} yield x * y
+
+  (for {x <- Some(3); y <- yOpt} yield x * y) getOrElse -1
+
+  (for {x <- Some(3); y <- Some(4)} yield x * y) getOrElse -1
+
+  //Lift has an analogous construct called Box.
+  //Box Full or Not
+  //Non-Full Box can be Empty Sigleton or a Failure, it will carry around why Box contains no value
+
+  //Failure : can display an error ,Http response code ,a message , what you have
+  //1 methods that return request parameters return Box[String]
+  //2 finder methods on models (not find all, just the ones that return a single instance) return Box[Model]
+  //3 any method that would have returned a null if I was writing in Java returns a Box[T] in Lift
+
+  //eg1:normal method
+  //for {
+  //  id <- S.param("id") ?~ "id param missing"
+  //  u <- getUser(id) ?~ "User not found"
+  //} yield u.toXml
+
+  //eg2 : Rest Handler
+  //serve {
+  //  case "user" :: "info" :: _ XmlGet _ =>
+  //    for {
+  //      id <- S.param("id") ?~ "id param missing" ~> 401
+  //      u <- User.find(id) ?~ "User not found"
+  //    } yield u.toXml
+  //}
+
+  //2https://app.assembla.com/wiki/show/liftweb/Box
+  //Option has two values: Some and None
+  //Box has three values: Full, Empty and Failure
+
+  //  1Using the box
+  //  val s = Full(“Thing”)
+  //  val e: Box[String] = Empty
+
+
+  //  2Opening the box
+  //  val myString: String = s openOr “(none)”
+  //  val fail = s ?~ “Opening the box failed”
+  //  s match { case Full(myS) => println(myS); case _ => println(“not found”) }
+
+
+}
+
+//bk 14.17 Partial Functions
+// A set of case clauses enclosed in braces is a partial function
+// A function which may not be defined for all inputs.
+object PartialFunctions17 extends App {
+
+  //eg1:
+  private val intToStringToFunction: ((Int) => String) => PartialFunction[Int, String] = PartialFunction[Int, String]
+  private val println1: Unit = println()
+
+  val f: PartialFunction[Char, Int] = {
+    case '+' => 1;
+    case '-' => -1
+  }
+  private val f1: Int = f('-')
+  private val at1: Boolean = f.isDefinedAt('-')
+  private val at: Boolean = f.isDefinedAt('*')
+  //  f('0') // Match Error
+
+  //eg2:accept a PartialFunction as a parameter
+  private val collect: IndexedSeq[Int] = "-3+4".collect { case '+' => 1; case '-' => -1 }
+  println(collect)
+  private val collect1: IndexedSeq[Int] = "-3+4".collect {
+    f
+  }
+  println(collect1)
+
+}
+
+
