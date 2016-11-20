@@ -1,7 +1,5 @@
 package myImpatient
 
-import impatient.ch11.sec02.Fraction
-
 /**
   * Created by zhanghongwei on 16/11/16.
   */
@@ -136,34 +134,35 @@ object ApplyUpapply7 extends App {
 object Extractors8 extends App {
 
   //eg1: opposite from apply
-  private val fraction1: Fraction = Fraction(3, 4)
   //apply
-  private val fraction2: Fraction = Fraction(2, 5)
-  private val result: Fraction = fraction1 * fraction2
+  private val fraction: Fraction = Fraction(3, 4)
   //unapply
-  var Fraction(a, b) = Fraction(2, 5)
+  var Fraction(a, b) = Fraction(2, 5) * Fraction(3, 4)
   println(a)
   println(b)
 
-  //eg2: extracte from String
+  //eg2: extract from String
   val author = "Zhang Hongwei"
   val Name(first, last) = author
-
 
   //eg3: case class
   case class Currency(value: Double, unit: String)
 
-  val amt = Currency(29.95, "NI")
+  val amt = Currency(29.95, "EUR")
   private val value: Any = amt match {
     case Currency(amount, "USD") => println("$" + amount); amount
     case Currency(amount, "EUR") => println("€" + amount); amount
     case _ => println(amt); amt
   }
-  value
 
 
   import scala.math._
 
+  /**
+    *
+    * @param n numerator fenzi
+    * @param d denominator fenmu
+    */
   class Fraction(n: Int, d: Int) {
     private val num: Int = if (d == 0) 1 else n * sign(d) / gcd(n, d);
     private val den: Int = if (d == 0) 0 else d * sign(d) / gcd(n, d);
@@ -182,27 +181,49 @@ object Extractors8 extends App {
   object Fraction {
     def apply(n: Int, d: Int): Fraction = new Fraction(n, d)
 
-    //    def unapply(input: Fraction): Option[(Int, Int)] = if (input.den == 0) None
-    //    else Some((input.num, input.den))
     def unapply(arg: Fraction): Option[(Int, Int)] =
-//    if (args.isEmpty) //TODO 1 why change to this ,it will throw an error???? Exception in thread "main" scala.MatchError: 1/0
-//      None
-    if (arg.den == 0) None
-    else
-      Some(arg.num, arg.den)
+      if (arg.den == 0)
+        None
+      else
+        Some(arg.num, arg.den)
   }
 
   object Name {
-    def unapply(input: String): Option[(String, String)] = {
-      val pos = input.indexOf(" ")
-      if (pos == -1) None else Some((input.substring(0, pos), input.substring(pos + 1)))
+    //    def unapply(input: String): Option[(String, String)] = {
+    //      val pos = input.indexOf(" ")
+    //      if (pos == -1) None else Some((input.substring(0, pos), input.substring(pos + 1)))
+    //    }
+    def unapply(arg: String): Option[(String, String)] = {
+      if (arg.isEmpty) {
+        None
+      } else {
+        val split: Array[String] = arg.split(" ")
+        Some(split(0), split(1))
+      }
     }
   }
 
 }
 
-//bk? 11.9 Extractors with One or No Arguments •
-object ExtractorsWithOneOrNoArguments extends App {
+//bk 11.9 Extractors with One or No Arguments •
+object ExtractorsWithOneOrNoArguments9 extends App {
+
+
+  //eg1: practice case class the one argument
+  case class Dog(name: String)
+
+  val dog2 = Dog("Yanlu")
+  val Dog(aadf) = dog2;
+
+  case class Dog2(name: String, age: Int)
+
+  private val dog: Dog2 = Dog2("yanlu", 6)
+  val Dog2(abc, def1) = dog
+
+
+  //eg2:my own one argument
+
+  val Number(n) = "1729"
 
   object Number {
     def unapply(input: String): Option[Int] = try {
@@ -212,7 +233,14 @@ object ExtractorsWithOneOrNoArguments extends App {
     }
   }
 
-  val Number(n) = "1729"
+  //eg3: my own no argument
+
+  val author = "Peter van der Linden"
+  author match {
+    case Name(first, last@IsCompound()) =>  print(last.split("\\s+").length) // Matches if the author is Peter van der Linden
+//    case Name(first, last) => 1;print(last)
+  }
+
 
   object Name {
     def unapply(input: String): Option[(String, String)] = {
@@ -226,26 +254,22 @@ object ExtractorsWithOneOrNoArguments extends App {
     def unapply(input: String): Boolean = input.contains(" ")
   }
 
-  val author = "Peter van der Linden"
-
-  author match {
-    case Name(first, last@IsCompound()) => last.split("\\s+").length // Matches if the author is Peter van der Linden
-    case Name(first, last) => 1
-  }
 }
 
 //bk 11.10 The unapplySeq Method
 object UnapplySeq extends App {
+  val author = "Peter van der Linden"
+
+  author match {
+    case Name(first, last) => print(author)
+    case Name(first, middle, last) => print(first + " " + last)
+    case Name(first, middle, _,_,_) => print(first + " ")
+    case Name(first, "van", "der", last) => print("Hello Peter!")
+  }
 
   object Name {
     def unapplySeq(input: String): Option[Seq[String]] = if (input.trim == "") None else Some(input.trim.split("\\s+"))
   }
 
-  val author = "Peter van der Linden"
 
-  author match {
-    case Name(first, last) => author
-    case Name(first, middle, last) => first + " " + last
-    case Name(first, "van", "der", last) => "Hello Peter!"
-  }
 }

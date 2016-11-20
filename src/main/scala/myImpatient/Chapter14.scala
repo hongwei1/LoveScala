@@ -216,6 +216,10 @@ object Chapter14 extends App {
 object InfixNotationInCaseClauses extends App {
 
 }
+//bk 14.12 Matching Nested Structures
+object MatchingNestedStructures extends App{
+
+}
 
 //bk 14.16 The Option Type
 object Option16 extends App {
