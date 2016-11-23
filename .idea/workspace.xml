@@ -4,8 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/scala/myImpatient/Chapter1.scala" line="20" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430b0db3-4a1c-42fa-a4f0-c3c6834869b7" name="Default" comment="">
+    <list default="true" id="430b0db3-4a1c-42fa-a4f0-c3c6834869b7" name="Default" comment="I chane sth on Master 2 &#10;&#10;# Conflicts:&#10;#&#9;.cache-main&#10;#&#9;.cache-tests&#10;#&#9;src/main/resources/log4j.properties&#10;#&#9;src/main/resources/props/sample.props.template&#10;#&#9;src/main/resources/props/test.default.props.template&#10;#&#9;src/main/scripts/migrate/migrate_0000001.sql&#10;#&#9;src/main/scripts/migrate/migrate_000002.sql&#10;#&#9;src/main/webapp/consumer-registration.html&#10;#&#9;src/main/webapp/create-sandbox-account.html&#10;#&#9;src/main/webapp/index.html&#10;#&#9;src/main/webapp/media/css/graphs.css&#10;#&#9;src/main/webapp/media/css/overrides/bnpp.css&#10;#&#9;src/main/webapp/media/css/overrides/enbdg.css&#10;#&#9;src/main/webapp/media/css/overrides/op.css&#10;#&#9;src/main/webapp/media/css/overrides/socgen.css&#10;#&#9;src/main/webapp/media/css/overrides/uk.css&#10;#&#9;src/main/webapp/media/css/overrides/ulster.css&#10;#&#9;src/main/webapp/media/css/overrides/unicredit.css&#10;#&#9;src/main/webapp/media/css/reset.css&#10;#&#9;src/main/webapp/media/css/responsive_login.css&#10;#&#9;src/main/webapp/media/css/website.css&#10;#&#9;src/main/webapp/media/js/d3.v3.js&#10;#&#9;src/main/webapp/media/js/graphs.js&#10;#&#9;src/main/webapp/media/js/toastr.min.js&#10;#&#9;src/main/webapp/media/js/website.js&#10;#&#9;src/main/webapp/metrics.html&#10;#&#9;src/main/webapp/oauth/authorize.html&#10;#&#9;src/main/webapp/oauth/thanks.html&#10;#&#9;src/main/webapp/templates-hidden/_login.html&#10;#&#9;src/main/webapp/templates-hidden/_login_form.html&#10;#&#9;src/main/webapp/templates-hidden/default.html&#10;" />
+    <list id="ba3fefe6-24cc-48b6-b69b-df81731afaff" name="DefaultChange" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lovescala.iml" afterPath="$PROJECT_DIR$/.idea/modules/lovescala.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
@@ -31,6 +33,7 @@
     <ignored path="$PROJECT_DIR$/project/target/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +129,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="5490">
               <caret line="380" column="6" selection-start-line="380" selection-start-column="6" selection-end-line="380" selection-end-column="6" />
-              <folding />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#541#582#0" expanded="false" />
+                <element signature="e#29559#29586#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,7 +143,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="960">
               <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
-              <folding />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,14 +162,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chapter14.scala" pinned="true" current-in-tab="true">
+      <file leaf-file-name="Chapter14.scala" pinned="true" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/myImpatient/Chapter14.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
                 <element signature="e#21#50#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default-lovescala-build-compile-internal.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/target/resolution-cache/reports/default-lovescala-build-compile-internal.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -322,7 +341,6 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
@@ -1407,7 +1425,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1479892353327" />
+    <option name="lastUpdateTimestamp" value="1479893335596" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1460,6 +1478,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="430b0db3-4a1c-42fa-a4f0-c3c6834869b7" name="Default" comment="" />
+      <changelist id="ba3fefe6-24cc-48b6-b69b-df81731afaff" name="DefaultChange" comment="" />
       <created>1478672892869</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -1600,7 +1619,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="88" y="23" width="1440" height="873" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1610,10 +1629,10 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32709113" sideWeight="0.49427754" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1940874" sideWeight="0.53004295" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3881748" sideWeight="0.5200286" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14735337" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1940874" sideWeight="0.46995708" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.69537276" sideWeight="0.49427754" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3881748" sideWeight="0.47997138" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46915168" sideWeight="0.47567955" order="11" side_tool="false" content_ui="tabs" x="280" y="577" width="1021" height="214" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -1709,7 +1728,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="db://[Connection] CONSOLE - Connection" />
     <entry file="db://[Connection] SESSION BROWSER - Connection" />
     <entry file="db://[Connection] CONSOLE - orcal" />
     <entry file="db://[Connection] CONSOLE - orcal" />
@@ -1931,7 +1949,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1939,7 +1959,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5490">
           <caret line="380" column="6" selection-start-line="380" selection-start-column="6" selection-end-line="380" selection-end-column="6" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#541#582#0" expanded="false" />
+            <element signature="e#29559#29586#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1979,11 +2003,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/myImpatient/Chapter14.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding>
             <element signature="e#21#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/target/resolution-cache/reports/default-lovescala-build-compile-internal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
