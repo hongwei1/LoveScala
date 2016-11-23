@@ -1,16 +1,13 @@
 package myImpatient
 
 import impatient.ch14.sec09._
+import myImpatient.CaseClasses.Currency
 
 import scala.collection.immutable.IndexedSeq
 
 /**
   * Created by zhanghongwei on 14/11/16.
   */
-class Chapter14 {
-
-}
-
 object Chapter14 extends App {
   //bk 14.1 A Better Switch
   //1 C style
@@ -22,6 +19,21 @@ object Chapter14 extends App {
     case '-' => sign = -1
     case _ => sign = 0 // if no ,scala.MatchError
   }
+
+
+  for {
+    1 <- 1 to 10
+    name <- ch match {
+      case '+' => Option(1)
+    }
+    a = 5
+
+
+  } yield 1
+
+
+
+
 
   //2 match is an expression, not a statement.
   private val i: Int = ch match {
@@ -167,20 +179,23 @@ object Chapter14 extends App {
   //    println(k)
 
 
-  //BK 14.9 Case Classes
 
-  //  • Each of the constructor parameters becomes a val unless
-  // it is explicitly declared as a var (which is not recommended).
-  //
-  //  • An apply method is provided for the companion object that lets you
-  // construct objects without new, such as Dollar(29.95) or Currency(29.95, "EUR").
-  //
-  //  • An unapply method is provided that makes pattern matching work—see Chapter 11 for
-  // the details. (You don’t really need to know these details to use case classes
-  // for pattern matching.)
+}
 
-  //  • Methods toString, equals, hashCode, and copy are generated unless they are explicitly provided.
+//BK 14.9 Case Classes
 
+//  1 Each of the constructor parameters becomes a val unless
+// it is explicitly declared as a var (which is not recommended).
+//
+//  2 An apply method is provided for the companion object that lets you
+// construct objects without new, such as Dollar(29.95) or Currency(29.95, "EUR").
+//
+//  3 An unapply method is provided that makes pattern matching work—see Chapter 11 for
+// the details. (You don’t really need to know these details to use case classes
+// for pattern matching.)
+
+//  4 Methods toString, equals, hashCode, and copy are generated unless they are explicitly provided.
+object CaseClasses extends App{
   abstract class Amount
 
   class MyMoney(value: Double) extends Amount
@@ -191,7 +206,8 @@ object Chapter14 extends App {
     def unapply(arg: MyMoney): Option[Double] = Option(2.4)
   }
 
-  case class Dollar(value: Double) extends Amount
+  case class Dollar(value: Double) extends Amount{
+  }
 
   case class Currency(value: Double, unit: String) extends Amount
 
@@ -207,11 +223,10 @@ object Chapter14 extends App {
     // Note that amt is printed nicely, thanks to the generated toString
     println(amt + ": " + result)
   }
-
+  var currency = Currency(1.2,"hognwe")
+  private val copy: Currency = currency.copy(currency.value)
   val a = 5
 }
-
-
 //bk 14.11 Infix Notation in case Clauses
 object InfixNotationInCaseClauses extends App {
 

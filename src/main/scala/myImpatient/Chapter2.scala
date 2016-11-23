@@ -71,7 +71,7 @@ object Chapter2 {
     def words2 = scala.io.Source.fromFile("/Users/zhanghongwei/Documents/workspaceScala/LoveScala/src/main/scala/code/api/Chapter2.scala").mkString
     val words1 = "hongwei"
 
-        print(words2)
+    print(words2)
     box("hongwei")
 
     recuriveSum(5)
@@ -101,7 +101,7 @@ object Chapter2 {
     var c = Unit
     printAny("helo")
     println()
-    printUnit("yanhong")
+//    printUnit("yanhong")
     val s = 5 + 6 + //
       7 + 9 + //
       1 + 2 //
@@ -129,6 +129,9 @@ object Chapter2 {
     for (ch <- "hello")
       print(ch)
 
+    //BK 2.6 Advanced for Loops and for Comprehensions
+    for(i<-Some(5))
+      print(i)
     for (i <- 1 to 3; j <- 1 to 3 if i != j)
       print((10 * i + j) + " ")
 
@@ -136,9 +139,12 @@ object Chapter2 {
       i <- 1 to 10
       if i > 5
       a7 = 1000
+
     } yield {
+      1
       i
       a7
+      1 to 10
     } // for {} yield {} 是 for 推导式.与第一个生成器的类型兼容!
 
 
@@ -148,10 +154,10 @@ object Chapter2 {
     val a10 = for (c <- "Hello") yield c.toChar
 
     val a5 = a6
-    //2.7 function
+    //BK 2.7 function
     // method operates on object, function not
 
-    //2.11
+    //BK 2.11
     //    val : evaluated as soon as words in defined
     //    lazy val : evaluated the first time workds is used
     //    def : every time is used
