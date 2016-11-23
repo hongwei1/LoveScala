@@ -4,9 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/scala/myImpatient/Chapter1.scala" line="20" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430b0db3-4a1c-42fa-a4f0-c3c6834869b7" name="Default" comment="2016-11-20 New one Hour">
+    <list default="true" id="430b0db3-4a1c-42fa-a4f0-c3c6834869b7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lovescala.iml" afterPath="$PROJECT_DIR$/.idea/modules/lovescala.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
@@ -147,7 +146,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,8 +156,8 @@
       <file leaf-file-name="Chapter14.scala" pinned="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/myImpatient/Chapter14.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="221" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="10" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
               <folding>
                 <element signature="e#21#50#0" expanded="true" />
               </folding>
@@ -193,6 +194,11 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -316,6 +322,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="88" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
@@ -1400,7 +1407,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1479892590766" />
+    <option name="lastUpdateTimestamp" value="1479892353327" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1535,7 +1542,21 @@
       <option name="project" value="LOCAL" />
       <updated>1479629978363</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="I chane sth on Develop &#10;&#10;# Conflicts:&#10;#&#9;.cache-main&#10;#&#9;.cache-tests&#10;#&#9;src/main/resources/log4j.properties&#10;#&#9;src/main/resources/props/sample.props.template&#10;#&#9;src/main/resources/props/test.default.props.template&#10;#&#9;src/main/scripts/migrate/migrate_0000001.sql&#10;#&#9;src/main/scripts/migrate/migrate_000002.sql&#10;#&#9;src/main/webapp/consumer-registration.html&#10;#&#9;src/main/webapp/create-sandbox-account.html&#10;#&#9;src/main/webapp/index.html&#10;#&#9;src/main/webapp/media/css/graphs.css&#10;#&#9;src/main/webapp/media/css/overrides/bnpp.css&#10;#&#9;src/main/webapp/media/css/overrides/enbdg.css&#10;#&#9;src/main/webapp/media/css/overrides/op.css&#10;#&#9;src/main/webapp/media/css/overrides/socgen.css&#10;#&#9;src/main/webapp/media/css/overrides/uk.css&#10;#&#9;src/main/webapp/media/css/overrides/ulster.css&#10;#&#9;src/main/webapp/media/css/overrides/unicredit.css&#10;#&#9;src/main/webapp/media/css/reset.css&#10;#&#9;src/main/webapp/media/css/responsive_login.css&#10;#&#9;src/main/webapp/media/css/website.css&#10;#&#9;src/main/webapp/media/js/d3.v3.js&#10;#&#9;src/main/webapp/media/js/graphs.js&#10;#&#9;src/main/webapp/media/js/toastr.min.js&#10;#&#9;src/main/webapp/media/js/website.js&#10;#&#9;src/main/webapp/metrics.html&#10;#&#9;src/main/webapp/oauth/authorize.html&#10;#&#9;src/main/webapp/oauth/thanks.html&#10;#&#9;src/main/webapp/templates-hidden/_login.html&#10;#&#9;src/main/webapp/templates-hidden/_login_form.html&#10;#&#9;src/main/webapp/templates-hidden/default.html&#10;">
+      <created>1479892424751</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1479892424751</updated>
+    </task>
+    <task id="LOCAL-00011" summary="I chane sth on Master 2 &#10;&#10;# Conflicts:&#10;#&#9;.cache-main&#10;#&#9;.cache-tests&#10;#&#9;src/main/resources/log4j.properties&#10;#&#9;src/main/resources/props/sample.props.template&#10;#&#9;src/main/resources/props/test.default.props.template&#10;#&#9;src/main/scripts/migrate/migrate_0000001.sql&#10;#&#9;src/main/scripts/migrate/migrate_000002.sql&#10;#&#9;src/main/webapp/consumer-registration.html&#10;#&#9;src/main/webapp/create-sandbox-account.html&#10;#&#9;src/main/webapp/index.html&#10;#&#9;src/main/webapp/media/css/graphs.css&#10;#&#9;src/main/webapp/media/css/overrides/bnpp.css&#10;#&#9;src/main/webapp/media/css/overrides/enbdg.css&#10;#&#9;src/main/webapp/media/css/overrides/op.css&#10;#&#9;src/main/webapp/media/css/overrides/socgen.css&#10;#&#9;src/main/webapp/media/css/overrides/uk.css&#10;#&#9;src/main/webapp/media/css/overrides/ulster.css&#10;#&#9;src/main/webapp/media/css/overrides/unicredit.css&#10;#&#9;src/main/webapp/media/css/reset.css&#10;#&#9;src/main/webapp/media/css/responsive_login.css&#10;#&#9;src/main/webapp/media/css/website.css&#10;#&#9;src/main/webapp/media/js/d3.v3.js&#10;#&#9;src/main/webapp/media/js/graphs.js&#10;#&#9;src/main/webapp/media/js/toastr.min.js&#10;#&#9;src/main/webapp/media/js/website.js&#10;#&#9;src/main/webapp/metrics.html&#10;#&#9;src/main/webapp/oauth/authorize.html&#10;#&#9;src/main/webapp/oauth/thanks.html&#10;#&#9;src/main/webapp/templates-hidden/_login.html&#10;#&#9;src/main/webapp/templates-hidden/_login_form.html&#10;#&#9;src/main/webapp/templates-hidden/default.html&#10;">
+      <created>1479892531054</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1479892531054</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1579,7 +1600,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="88" y="23" width="1440" height="873" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1592,8 +1613,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1940874" sideWeight="0.53004295" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14735337" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1940874" sideWeight="0.46995708" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28791773" sideWeight="0.49427754" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19023137" sideWeight="0.47567955" order="11" side_tool="false" content_ui="tabs" x="280" y="577" width="1021" height="214" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.69537276" sideWeight="0.49427754" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46915168" sideWeight="0.47567955" order="11" side_tool="false" content_ui="tabs" x="280" y="577" width="1021" height="214" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18370607" sideWeight="0.7761628" order="0" side_tool="false" content_ui="tabs" />
@@ -1658,7 +1679,9 @@
     <MESSAGE value="All the chapters finished !" />
     <MESSAGE value="All the chapters finished !111" />
     <MESSAGE value="2016-11-20 New one Hour" />
-    <option name="LAST_COMMIT_MESSAGE" value="2016-11-20 New one Hour" />
+    <MESSAGE value="I chane sth on Develop &#10;&#10;# Conflicts:&#10;#&#9;.cache-main&#10;#&#9;.cache-tests&#10;#&#9;src/main/resources/log4j.properties&#10;#&#9;src/main/resources/props/sample.props.template&#10;#&#9;src/main/resources/props/test.default.props.template&#10;#&#9;src/main/scripts/migrate/migrate_0000001.sql&#10;#&#9;src/main/scripts/migrate/migrate_000002.sql&#10;#&#9;src/main/webapp/consumer-registration.html&#10;#&#9;src/main/webapp/create-sandbox-account.html&#10;#&#9;src/main/webapp/index.html&#10;#&#9;src/main/webapp/media/css/graphs.css&#10;#&#9;src/main/webapp/media/css/overrides/bnpp.css&#10;#&#9;src/main/webapp/media/css/overrides/enbdg.css&#10;#&#9;src/main/webapp/media/css/overrides/op.css&#10;#&#9;src/main/webapp/media/css/overrides/socgen.css&#10;#&#9;src/main/webapp/media/css/overrides/uk.css&#10;#&#9;src/main/webapp/media/css/overrides/ulster.css&#10;#&#9;src/main/webapp/media/css/overrides/unicredit.css&#10;#&#9;src/main/webapp/media/css/reset.css&#10;#&#9;src/main/webapp/media/css/responsive_login.css&#10;#&#9;src/main/webapp/media/css/website.css&#10;#&#9;src/main/webapp/media/js/d3.v3.js&#10;#&#9;src/main/webapp/media/js/graphs.js&#10;#&#9;src/main/webapp/media/js/toastr.min.js&#10;#&#9;src/main/webapp/media/js/website.js&#10;#&#9;src/main/webapp/metrics.html&#10;#&#9;src/main/webapp/oauth/authorize.html&#10;#&#9;src/main/webapp/oauth/thanks.html&#10;#&#9;src/main/webapp/templates-hidden/_login.html&#10;#&#9;src/main/webapp/templates-hidden/_login_form.html&#10;#&#9;src/main/webapp/templates-hidden/default.html&#10;" />
+    <MESSAGE value="I chane sth on Master 2 &#10;&#10;# Conflicts:&#10;#&#9;.cache-main&#10;#&#9;.cache-tests&#10;#&#9;src/main/resources/log4j.properties&#10;#&#9;src/main/resources/props/sample.props.template&#10;#&#9;src/main/resources/props/test.default.props.template&#10;#&#9;src/main/scripts/migrate/migrate_0000001.sql&#10;#&#9;src/main/scripts/migrate/migrate_000002.sql&#10;#&#9;src/main/webapp/consumer-registration.html&#10;#&#9;src/main/webapp/create-sandbox-account.html&#10;#&#9;src/main/webapp/index.html&#10;#&#9;src/main/webapp/media/css/graphs.css&#10;#&#9;src/main/webapp/media/css/overrides/bnpp.css&#10;#&#9;src/main/webapp/media/css/overrides/enbdg.css&#10;#&#9;src/main/webapp/media/css/overrides/op.css&#10;#&#9;src/main/webapp/media/css/overrides/socgen.css&#10;#&#9;src/main/webapp/media/css/overrides/uk.css&#10;#&#9;src/main/webapp/media/css/overrides/ulster.css&#10;#&#9;src/main/webapp/media/css/overrides/unicredit.css&#10;#&#9;src/main/webapp/media/css/reset.css&#10;#&#9;src/main/webapp/media/css/responsive_login.css&#10;#&#9;src/main/webapp/media/css/website.css&#10;#&#9;src/main/webapp/media/js/d3.v3.js&#10;#&#9;src/main/webapp/media/js/graphs.js&#10;#&#9;src/main/webapp/media/js/toastr.min.js&#10;#&#9;src/main/webapp/media/js/website.js&#10;#&#9;src/main/webapp/metrics.html&#10;#&#9;src/main/webapp/oauth/authorize.html&#10;#&#9;src/main/webapp/oauth/thanks.html&#10;#&#9;src/main/webapp/templates-hidden/_login.html&#10;#&#9;src/main/webapp/templates-hidden/_login_form.html&#10;#&#9;src/main/webapp/templates-hidden/default.html&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="I chane sth on Master 2 &#10;&#10;# Conflicts:&#10;#&#9;.cache-main&#10;#&#9;.cache-tests&#10;#&#9;src/main/resources/log4j.properties&#10;#&#9;src/main/resources/props/sample.props.template&#10;#&#9;src/main/resources/props/test.default.props.template&#10;#&#9;src/main/scripts/migrate/migrate_0000001.sql&#10;#&#9;src/main/scripts/migrate/migrate_000002.sql&#10;#&#9;src/main/webapp/consumer-registration.html&#10;#&#9;src/main/webapp/create-sandbox-account.html&#10;#&#9;src/main/webapp/index.html&#10;#&#9;src/main/webapp/media/css/graphs.css&#10;#&#9;src/main/webapp/media/css/overrides/bnpp.css&#10;#&#9;src/main/webapp/media/css/overrides/enbdg.css&#10;#&#9;src/main/webapp/media/css/overrides/op.css&#10;#&#9;src/main/webapp/media/css/overrides/socgen.css&#10;#&#9;src/main/webapp/media/css/overrides/uk.css&#10;#&#9;src/main/webapp/media/css/overrides/ulster.css&#10;#&#9;src/main/webapp/media/css/overrides/unicredit.css&#10;#&#9;src/main/webapp/media/css/reset.css&#10;#&#9;src/main/webapp/media/css/responsive_login.css&#10;#&#9;src/main/webapp/media/css/website.css&#10;#&#9;src/main/webapp/media/js/d3.v3.js&#10;#&#9;src/main/webapp/media/js/graphs.js&#10;#&#9;src/main/webapp/media/js/toastr.min.js&#10;#&#9;src/main/webapp/media/js/website.js&#10;#&#9;src/main/webapp/metrics.html&#10;#&#9;src/main/webapp/oauth/authorize.html&#10;#&#9;src/main/webapp/oauth/thanks.html&#10;#&#9;src/main/webapp/templates-hidden/_login.html&#10;#&#9;src/main/webapp/templates-hidden/_login_form.html&#10;#&#9;src/main/webapp/templates-hidden/default.html&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1940,7 +1963,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1954,8 +1979,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/myImpatient/Chapter14.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="221" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="10" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
           <folding>
             <element signature="e#21#50#0" expanded="true" />
           </folding>
