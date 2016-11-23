@@ -2609,7 +2609,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.9!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.5!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1589ms :: artifacts dl 25ms
+[debug] :: resolution report :: resolve 1206ms :: artifacts dl 33ms
 [debug] 	report for default#lovescala-build;0.1-SNAPSHOT compile produced in /Users/zhanghongwei/Documents/workspaceScala/LoveScala/project/target/resolution-cache/reports/default-lovescala-build-compile.xml
 [debug] 	report for default#lovescala-build;0.1-SNAPSHOT runtime produced in /Users/zhanghongwei/Documents/workspaceScala/LoveScala/project/target/resolution-cache/reports/default-lovescala-build-runtime.xml
 [debug] 	report for default#lovescala-build;0.1-SNAPSHOT test produced in /Users/zhanghongwei/Documents/workspaceScala/LoveScala/project/target/resolution-cache/reports/default-lovescala-build-test.xml
@@ -2623,5 +2623,5 @@
 [debug] 	report for default#lovescala-build;0.1-SNAPSHOT docs produced in /Users/zhanghongwei/Documents/workspaceScala/LoveScala/project/target/resolution-cache/reports/default-lovescala-build-docs.xml
 [debug] 	report for default#lovescala-build;0.1-SNAPSHOT pom produced in /Users/zhanghongwei/Documents/workspaceScala/LoveScala/project/target/resolution-cache/reports/default-lovescala-build-pom.xml
 [debug] 	report for default#lovescala-build;0.1-SNAPSHOT scala-tool produced in /Users/zhanghongwei/Documents/workspaceScala/LoveScala/project/target/resolution-cache/reports/default-lovescala-build-scala-tool.xml
-[debug] 	resolve done (1589ms resolve - 25ms download)
+[debug] 	resolve done (1206ms resolve - 33ms download)
 [info] Done updating.
