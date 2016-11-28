@@ -6,7 +6,7 @@ import myImpatient.CaseClasses.Currency
 import scala.collection.immutable.IndexedSeq
 
 /**
-  * Created by zhanghongwei on 14/11/16. I just want to test it .
+  * Created by zhanghongwei on 14/11/16. I just want to test it . I add something in develop branch !
   */
 object Chapter14 extends App {
   //bk 14.1 A Better Switch

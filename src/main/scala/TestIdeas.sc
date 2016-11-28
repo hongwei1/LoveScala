@@ -1,7 +1,8 @@
- for {
-  i <- 1 to 10
-  a7 = 1000
-  c <- 1 to 10
-} yield {
-  a7
-}
+var capital =Map("US"->"Washington","France"->"Paries")
+capital += ("Japan"-> "Tokeyo")
+println(capital("France"))
+
+def factoial (x:BigInt):BigInt =
+  if(x==0) 1 else x*factoial( x -1)
+
+factoial(30)
