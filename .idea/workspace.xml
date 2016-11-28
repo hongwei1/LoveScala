@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="430b0db3-4a1c-42fa-a4f0-c3c6834869b7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/myImpatient/BK.scala" afterPath="$PROJECT_DIR$/src/main/scala/myImpatient/BK.scala" />
-    </list>
-    <list id="ba3fefe6-24cc-48b6-b69b-df81731afaff" name="DefaultChange" comment="" />
-    <list id="656f243b-9114-411f-8161-aafd7f3214b1" name="Nothing" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache-tests" afterPath="$PROJECT_DIR$/.cache-tests" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
@@ -29,39 +23,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lovescala-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lovescala-build-test-internal.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lovescala-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lovescala-build-test.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/props/sample.props.template" afterPath="$PROJECT_DIR$/src/main/resources/props/sample.props.template" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/props/test.default.props.template" afterPath="$PROJECT_DIR$/src/main/resources/props/test.default.props.template" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/TestIdeas.sc" afterPath="$PROJECT_DIR$/src/main/scala/TestIdeas.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/myImpatient/Chapter14.scala" afterPath="$PROJECT_DIR$/src/main/scala/myImpatient/Chapter14.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scripts/migrate/migrate_0000001.sql" afterPath="$PROJECT_DIR$/src/main/scripts/migrate/migrate_0000001.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scripts/migrate/migrate_000002.sql" afterPath="$PROJECT_DIR$/src/main/scripts/migrate/migrate_000002.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/consumer-registration.html" afterPath="$PROJECT_DIR$/src/main/webapp/consumer-registration.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/create-sandbox-account.html" afterPath="$PROJECT_DIR$/src/main/webapp/create-sandbox-account.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/graphs.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/graphs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/bnpp.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/bnpp.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/enbdg.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/enbdg.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/op.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/op.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/socgen.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/socgen.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/uk.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/uk.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/ulster.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/ulster.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/unicredit.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/overrides/unicredit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/reset.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/responsive_login.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/responsive_login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/css/website.css" afterPath="$PROJECT_DIR$/src/main/webapp/media/css/website.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/js/d3.v3.js" afterPath="$PROJECT_DIR$/src/main/webapp/media/js/d3.v3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/js/graphs.js" afterPath="$PROJECT_DIR$/src/main/webapp/media/js/graphs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/js/toastr.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/media/js/toastr.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/media/js/website.js" afterPath="$PROJECT_DIR$/src/main/webapp/media/js/website.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/metrics.html" afterPath="$PROJECT_DIR$/src/main/webapp/metrics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/oauth/authorize.html" afterPath="$PROJECT_DIR$/src/main/webapp/oauth/authorize.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/oauth/thanks.html" afterPath="$PROJECT_DIR$/src/main/webapp/oauth/thanks.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates-hidden/_login.html" afterPath="$PROJECT_DIR$/src/main/webapp/templates-hidden/_login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates-hidden/_login_form.html" afterPath="$PROJECT_DIR$/src/main/webapp/templates-hidden/_login_form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates-hidden/default.html" afterPath="$PROJECT_DIR$/src/main/webapp/templates-hidden/default.html" />
     </list>
+    <list id="ba3fefe6-24cc-48b6-b69b-df81731afaff" name="DefaultChange" comment="" />
     <ignored path="lovescala.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -69,7 +32,6 @@
     <ignored path="$PROJECT_DIR$/project/target/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/src/main/scala/TestIdeas.sc" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1346,7 +1308,7 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="430b0db3-4a1c-42fa-a4f0-c3c6834869b7" name="Default" comment="" />
       <changelist id="ba3fefe6-24cc-48b6-b69b-df81731afaff" name="DefaultChange" comment="" />
-      <changelist id="656f243b-9114-411f-8161-aafd7f3214b1" name="Nothing" comment="" />
+      <changelist id="" name="Nothing" comment="" />
       <created>1478672892869</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -1443,7 +1405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1479892531054</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Nothing">
+      <created>1480344843487</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1480344843487</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1571,7 +1540,9 @@
     <MESSAGE value="I chane sth on Master 2 &#10;&#10;# Conflicts:&#10;#&#9;.cache-main&#10;#&#9;.cache-tests&#10;#&#9;src/main/resources/log4j.properties&#10;#&#9;src/main/resources/props/sample.props.template&#10;#&#9;src/main/resources/props/test.default.props.template&#10;#&#9;src/main/scripts/migrate/migrate_0000001.sql&#10;#&#9;src/main/scripts/migrate/migrate_000002.sql&#10;#&#9;src/main/webapp/consumer-registration.html&#10;#&#9;src/main/webapp/create-sandbox-account.html&#10;#&#9;src/main/webapp/index.html&#10;#&#9;src/main/webapp/media/css/graphs.css&#10;#&#9;src/main/webapp/media/css/overrides/bnpp.css&#10;#&#9;src/main/webapp/media/css/overrides/enbdg.css&#10;#&#9;src/main/webapp/media/css/overrides/op.css&#10;#&#9;src/main/webapp/media/css/overrides/socgen.css&#10;#&#9;src/main/webapp/media/css/overrides/uk.css&#10;#&#9;src/main/webapp/media/css/overrides/ulster.css&#10;#&#9;src/main/webapp/media/css/overrides/unicredit.css&#10;#&#9;src/main/webapp/media/css/reset.css&#10;#&#9;src/main/webapp/media/css/responsive_login.css&#10;#&#9;src/main/webapp/media/css/website.css&#10;#&#9;src/main/webapp/media/js/d3.v3.js&#10;#&#9;src/main/webapp/media/js/graphs.js&#10;#&#9;src/main/webapp/media/js/toastr.min.js&#10;#&#9;src/main/webapp/media/js/website.js&#10;#&#9;src/main/webapp/metrics.html&#10;#&#9;src/main/webapp/oauth/authorize.html&#10;#&#9;src/main/webapp/oauth/thanks.html&#10;#&#9;src/main/webapp/templates-hidden/_login.html&#10;#&#9;src/main/webapp/templates-hidden/_login_form.html&#10;#&#9;src/main/webapp/templates-hidden/default.html&#10;" />
     <MESSAGE value="add1" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Merge branch 'develop'&#10;&#10;# Conflicts:&#10;#&#9;.idea/modules/lovescala.iml&#10;#&#9;.idea/workspace.xml&#10;#&#9;project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties&#10;#&#9;project/target/resolution-cache/default/lovescala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-compile-internal.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-compile.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-docs.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-optional.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-plugin.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-pom.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-provided.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-runtime-internal.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-runtime.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-scala-tool.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-sources.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-test-internal.xml&#10;#&#9;project/target/resolution-cache/reports/default-lovescala-build-test.xml&#10;#&#9;project/target/streams/$global/update/$global/streams/out&#10;#&#9;project/target/streams/$global/update/$global/streams/update_cache_2.10/output&#10;" />
+    <MESSAGE value="Nothing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nothing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1852,6 +1823,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
