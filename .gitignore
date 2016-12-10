@@ -1,5 +1,5 @@
-/bin/
-/target/
+bin/
+target/
 *.class
 *.db
 .DS_Store
@@ -15,3 +15,33 @@ target
 src/main/resources/
 src/test/resources/
 *.iml
+src/main/scala/ProgrammingInScala/
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+out
+gen### Scala template
+
+# sbt specific
+.history
+.lib/
+dist/*
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# ENSIME specific
+.ensime_cache/
+.ensime
+
+project/project/
+sbt
+sbt-launch-0.13.8.jar
+src/main/scala/code/comet/
+src/main/scala/code/view/
